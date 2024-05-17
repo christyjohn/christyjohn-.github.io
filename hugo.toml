@@ -14,6 +14,8 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+canonifyURLs = true
+
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
 
